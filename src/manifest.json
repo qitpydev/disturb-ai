@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Disturb AI",
+  "description": "Helps you stay mindful of distractions and focus on tasks.",
+  "version": "0.1.0",
+  "permissions": ["storage", "tabs", "notifications"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "options_page": "options.html",
+  "background": {
+    "service_worker": "background.js"
+  }
+}

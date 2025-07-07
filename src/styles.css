@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; margin: 1em; }
+h1 { font-size: 16px; margin-bottom: 0.5em; }
+form { display: flex; flex-direction: column; gap: 0.5em; }
+label { display: flex; justify-content: space-between; }
