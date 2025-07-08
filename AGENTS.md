@@ -18,7 +18,7 @@ Develop a Chrome extension that helps users stay mindful and aware whenever they
 - This input will help determine which websites are considered “safe” vs. “distracting.”
 - If no input is given, the extension remains in **inactive** mode (does nothing).
 
-## Self-learning
+## 🧠 Self-learning
 - The extension should Learn from user behavior and adjust its behavior accordingly by times.
 - The extension should Learn form user inputs and adjust its behavior accordingly by times.
 - The learned data should be stored locally in the browser as a JSON file.
